@@ -1,0 +1,16 @@
+<body>
+  <h1>My Instrument App!!!</h1>
+
+  <ng-container *ngFor="let inst of myInsts">
+    <app-one-inst [theinst]="inst" (deleteevent)="doDelete($event)"
+                  (updateevent)="doUpdate($event)"></app-one-inst>
+  </ng-container>
+
+  <div>
+    Kind: <input type="text" [(ngModel)]="newKind" /><br />
+    Color: <input type="text" [(ngModel)]="newColor" /><br />
+    <button (click)="addNew()">Add</button>
+  </div>
+  <br />
+  <button (click)="getList()">Debug</button>
+</body>

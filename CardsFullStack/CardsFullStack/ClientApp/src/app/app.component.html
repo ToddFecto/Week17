@@ -1,0 +1,29 @@
+<body>
+  <app-nav-menu></app-nav-menu>
+  <div class="container">
+
+    <div *ngIf="allDecks">
+      <ng-container *ngFor="let deck of allDecks">
+        <button (click)="selectDeck(deck.deck_id)">{{ deck.deck_id }}</button><br />
+      </ng-container>
+    </div>
+    <br />
+    <button (click)="getDeck()">Get New Deck</button>
+    <br />
+
+    {{ deck_id }}<br />
+
+    <ng-container *ngIf="theCards">
+      <ng-container *ngFor="let card of theCards">
+        <img src="{{ card.image }}" />
+      </ng-container>
+
+      <br />
+      <button (click)="getTwoCards()">Draw Two More</button>
+    </ng-container>
+
+    <h1>The stuff below came with the VS project</h1>
+    <hr />
+    <router-outlet></router-outlet>
+  </div>
+</body>

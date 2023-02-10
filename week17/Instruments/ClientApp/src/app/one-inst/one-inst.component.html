@@ -1,0 +1,14 @@
+<div *ngIf="theinst" style="margin: .5em; background-color:#8af8f8">
+  <ng-container *ngIf="!inEditMode">
+    Kind: {{ theinst.kind }}<br />
+    Color: {{ theinst.color }}<br />
+    <button (click)="showEditForm()">Edit</button>&nbsp;
+    <button (click)="deleteMe()">Delete</button>
+  </ng-container>
+  <ng-container *ngIf="inEditMode">
+    Kind: <input type="text" [(ngModel)]="editKind" /><br />
+    Color: <input type="text" [(ngModel)]="editColor" />
+    <button (click)="saveChanges()">Save</button>&nbsp;
+    <button (click)="cancelEdit()">Cancel</button>
+  </ng-container>
+</div>

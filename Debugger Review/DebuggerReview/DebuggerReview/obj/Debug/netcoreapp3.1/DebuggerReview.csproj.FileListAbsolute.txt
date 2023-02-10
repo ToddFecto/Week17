@@ -1,0 +1,14 @@
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\bin\Debug\netcoreapp3.1\DebuggerReview.exe
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\bin\Debug\netcoreapp3.1\DebuggerReview.deps.json
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\bin\Debug\netcoreapp3.1\DebuggerReview.runtimeconfig.json
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\bin\Debug\netcoreapp3.1\DebuggerReview.runtimeconfig.dev.json
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\bin\Debug\netcoreapp3.1\DebuggerReview.dll
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\bin\Debug\netcoreapp3.1\DebuggerReview.pdb
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.csproj.AssemblyReference.cache
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.AssemblyInfoInputs.cache
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.AssemblyInfo.cs
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.csproj.CoreCompileInputs.cache
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.dll
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.pdb
+C:\Dev\Week17\Debugger Review\DebuggerReview\DebuggerReview\obj\Debug\netcoreapp3.1\DebuggerReview.genruntimeconfig.cache
